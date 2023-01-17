@@ -8,8 +8,8 @@ fullnameOverride: ""
 
 images:
   owls:
-    repository: tip-tip-wlan-cloud-ucentral.jfrog.io/owls
-    tag: main
+    repository: 588354938798.dkr.ecr.ap-south-1.amazonaws.com/owls
+    tag: latest
     pullPolicy: Always
 #    regcred:
 #      registry: tip-tip-wlan-cloud-ucentral.jfrog.io
