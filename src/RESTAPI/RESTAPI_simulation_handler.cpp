@@ -30,6 +30,7 @@ namespace OpenWifi {
 															 "edgecore_spw2ac1200",
 															 "edgecore_spw2ac1200-lan-poe",
 															 "edgecore_ssw2ac2600",
+															 "edgecore_as4630-54pe",
 															 "hfcl_ion4",
 															 "hfcl_ion4x",
 															 "hfcl_ion4x_2",
